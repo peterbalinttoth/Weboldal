@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <title>Az első weboldalam</title>
+</head>
+<body>
+  <h1>Szia Tiwy, ez az első weboldalam!</h1>
+  <p>Kapd be a faszom!</p>
+</body>
+</html>
